@@ -2,8 +2,9 @@
              TRIANGEL
   Griffin Willingham, April 2024
 
+Version 1.0
+
 ############ TO RUN
-# open the game folder in vscode
 # open and run main.py
 # you may want to turn your volume down
 # I KNOW it does not automatically close when you die, it's so you can see your final score !!!
@@ -21,7 +22,7 @@
 - teal circle; floats aimlessly until struck. 
 - Two hits to kill, +50 points
 # DEFENDER
-- blue box; slides on downward, firing sporadically. 
+- blue box; slides downward, firing sporadically. 
 - Three hits to kill, +150 points.
 # WAVE
 - pink... thing. Oscillates as it fires.
