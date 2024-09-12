@@ -5,7 +5,8 @@
 Version 1.0
 
 ############ TO RUN
-# open and run main.py
+# Go to the "main" folder
+# click and run "main.exe"
 # you may want to turn your volume down
 # I KNOW it does not automatically close when you die, it's so you can see your final score !!!
 
